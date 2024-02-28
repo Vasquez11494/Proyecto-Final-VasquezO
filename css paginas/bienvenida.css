@@ -1,0 +1,57 @@
+body{
+    background-image: url(..//imagenes/background.jpg!d);
+    margin: 0%;
+    padding: 0%;
+}
+
+.titulo{
+    background-color: rgba(1, 1, 1, 0.896);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -7mm;
+    font-size: 20px;
+    color: white;
+    height: 80px;
+    box-shadow: 15px 2px 10px;
+}
+
+.sesion{
+    width: 55%;
+    height: 700px;
+    margin-left: 22.5%;
+    border: solid;
+    border-color: black 2px;
+    box-shadow: 5px 10px 15px;
+    color: rgba(5, 125, 165, 0.604);
+    background-color: rgba(78, 78, 78, 0.781);
+}
+
+#sesion1{
+    height: 100px;
+    text-align: center;
+    background-color: rgba(11, 11, 11, 0.767);
+}
+
+#subtitulo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 28px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.tablainicio{
+    border: double;
+    border-radius: 20px;
+    width: 450px;
+    margin-left: 190px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif ;
+    color: black;
+    background-color: rgba(235, 235, 235, 0.733);
+}
+
+.redessociales{
+    width: 150PX;
+    height: 50px;
+    position: fixed;
+    bottom: 200px;
+}
